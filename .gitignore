@@ -1,0 +1,21 @@
+# Папка сборки
+build/
+
+# Скомпилированный бинарник
+pg_bloat
+pg_bloat.exe
+
+# Файлы IDE
+.vscode/
+.idea/
+.vs/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.o
+*.tmp
+*~
+
